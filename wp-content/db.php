@@ -1,0 +1,1 @@
+D:/Server/OpenServer/domains/wp-Nerds/wp-content/plugins/query-monitor/wp-content/db.php

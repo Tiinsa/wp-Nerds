@@ -1,0 +1,209 @@
+.tp-caption.englebert_72{
+	position: absolute; 
+	color: #999898; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 72px; 
+	line-height: 42px; 
+	font-family: 'Englebert',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.englebert_48{
+	position: absolute; 
+	color: #999898; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 48px; 
+	line-height: 42px; 
+	font-family: 'Englebert',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.englebert_24_link{
+	position: absolute; 
+	color: #e7ad38; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 24px; 
+	line-height: 42px; 
+	font-family: 'Englebert',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.oswald_48_blue{
+	position: absolute; 
+	color: #2c3d54; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 48px; 
+	line-height: 42px; 
+	font-family: 'Oswald',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.oswald_48_orange{
+	position: absolute; 
+	color: #bc7403; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 48px; 
+	line-height: 42px; 
+	font-family: 'Oswald',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.oswald_30_blue{
+	position: absolute; 
+	color: #2c3d54; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 30px; 
+	line-height: 42px; 
+	font-family: 'Oswald',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.oswald_24_bold{
+	position: absolute; 
+	color: #999898; 
+	text-shadow: none; 
+	font-weight: 700; 
+	font-size: 24px; 
+	line-height: 42px; 
+	font-family: 'Oswald',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.oswald_18{
+	position: absolute; 
+	color: #999898; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 18px; 
+	line-height: 42px; 
+	font-family: 'Oswald',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.oswald_18_orange{
+	position: absolute; 
+	color: #bc7403; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 18px; 
+	line-height: 42px; 
+	font-family: 'Oswald',sans-serif; 
+	padding: 1px 4px 0px; 
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    white-space: nowrap;								
+}
+
+.tp-caption.subtitle{
+	position: absolute; 
+	color: #4e4d4d; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 18px; 
+	line-height: 42px; 
+	font-family: 'Open Sans',sans-serif; 
+	padding: 0px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+        white-space: nowrap;								
+}
+
+.tp-caption.paragraph{
+	position: absolute; 
+	color: #55585b; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 12px; 
+	line-height: 1.31em; 
+	font-family: 'Play',sans-serif; 
+	padding: 0px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;											
+}
+
+.tp-caption.paragraph_verdana{
+	position: absolute; 
+	color: #262626; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 11px; 
+	line-height: 1.61em; 
+	font-family: Verdana,sans-serif; 
+	padding: 0px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+    word-spacing: -1px;
+}
+
+.tp-caption.oswald_48_blue span{
+	color: #c48624; 							
+}
